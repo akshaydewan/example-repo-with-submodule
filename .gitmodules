@@ -1,3 +1,3 @@
-[submodule "arduino"]
-	path = arduino
+[submodule "folder1/folder2/arduino"]
+	path = folder1/folder2/arduino
 	url = https://github.com/akshaydewan/arduino.git
